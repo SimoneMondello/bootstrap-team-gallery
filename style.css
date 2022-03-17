@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+}
+
+#title1 {
+    text-align: center;
+    color: seagreen;
+    font-size: medium;
+}
+#title2 {
+    text-align: center;
+    font-size: small;
+}
+#title3 {
+    text-align: center;
+    color: gainsboro;
+    font-size: x-small;
+}
