@@ -18,8 +18,11 @@
     font: bold;
 }
 #img1 {
+
   height: 40px%;
-  border-radius:999em }
+  border-radius:999em
+  
+ }
 
   h6{
       color: seagreen;
@@ -31,4 +34,13 @@
     color: gainsboro;
     text-align: center;
     font: bold;
+}
+
+.col-3{
+    text-align: center;
+    
+}
+
+body {
+    margin-top: 20px;
 }
