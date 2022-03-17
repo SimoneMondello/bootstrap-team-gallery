@@ -15,4 +15,20 @@
     text-align: center;
     color: gainsboro;
     font-size: x-small;
+    font: bold;
+}
+#img1 {
+  height: 40px%;
+  border-radius:999em }
+
+  h6{
+      color: seagreen;
+      text-align: center;
+      font: bold;
+  }
+
+  #subtitle{
+    color: gainsboro;
+    text-align: center;
+    font: bold;
 }
