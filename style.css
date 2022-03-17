@@ -1,7 +1,7 @@
 *{
     box-sizing: border-box;
 }
-
+/* conteiner1 */
 #title1 {
     text-align: center;
     color: seagreen;
@@ -17,6 +17,8 @@
     font-size: x-small;
     font: bold;
 }
+
+/*conteiner2 */
 #img1 {
 
   height: 40px%;
@@ -41,6 +43,7 @@
     
 }
 
+/*body*/
 body {
     margin-top: 20px;
 }
